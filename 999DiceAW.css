@@ -4,14 +4,13 @@
 
 }
 .awCheckboxContainer {
-  width: 24px;
-  float: left;
+  width: 200px;
   
 }
 .awConfigContainer {
   position: relative;
-  float: right;
-  width: 370px;
+  
+  width: 340px;
 }
 
 .awConfigContainer > div {

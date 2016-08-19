@@ -1,7 +1,11 @@
-#awCheckbox {
-  width: 26px;
-  height: 26px;
-  
-  border: 3px solid grey;
+.awCheckbox {
+  border: 3px solid #a80004;
   border-radius: 3px;  
+  
+}
+
+#awCheckbox {
+  width: 18px;
+  height: 18px;
+
 }

@@ -1,19 +1,18 @@
-.awCheckbox {
-  border: 3px solid #a80004;
-  border-radius: 3px;  
-  
-}
-
 #awCheckbox {
   width: 18px;
   height: 18px;
 
 }
 
-.awConfigContainer > div {
+.awConfigContainer {
   position: absolute;
   width: 100%;
   height 30px;
 
   padding: 4px;
+}
+
+.awConfigContainer > div {
+  position: absolute;
+  float: left;
 }

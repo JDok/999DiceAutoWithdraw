@@ -13,6 +13,6 @@
 }
 
 .awConfigContainer > div {
-  position: absolute;
+  position: relative;
   float: left;
 }

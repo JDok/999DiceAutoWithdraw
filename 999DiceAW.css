@@ -3,18 +3,21 @@
   height: 18px;
 
 }
-
+.awCheckboxContainer {
+  width: 24px;
+  float: left;
+  
+}
 .awConfigContainer {
-  position: absolute;
-  width: 100%;
+  position: relative;
+  float: right;
   height 30px;
 
-  padding: 4px;
 }
 
 .awConfigContainer > div {
   position: relative;
-  
+   padding: 4px;
 }
 
 #awInput_balance, #awInput_amount {

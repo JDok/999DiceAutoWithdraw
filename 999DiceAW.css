@@ -9,3 +9,8 @@
   height: 18px;
 
 }
+
+.awConfigContainer > div {
+  position: relative;
+  float: left;
+}

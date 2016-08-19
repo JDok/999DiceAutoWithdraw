@@ -16,6 +16,10 @@
    padding: 4px;
 }
 
-#awInput_balance, #awInput_amount {
+#awInput_balance {
+  width: 96px;
+}
+
+#awInput_amount {
   width: 80px;
 }

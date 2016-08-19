@@ -16,3 +16,7 @@
   position: relative;
   float: left;
 }
+
+#awInput_balance, #awInput_amount {
+  width: 60px;
+}

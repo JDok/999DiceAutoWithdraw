@@ -14,12 +14,12 @@
     <div class="awConfigContainer">
       <div style="position: relative; float: left;">
         <label for="awInput_balance"> If balance >= </label>
-        <input type="number" id="awInput_balance"> 
+        <input type="number" id="awInput_balance" value="0.0002"> 
         <button onclick=" $('#awInput_balance').val(data.user.currencyStats[config.displayCurrencyId].balance / 100000000); "> &#8810; Balance </button>
       </div>
       <div style="position: relative; float: left;">
         <label for="awInput_amount"> withdraw </label>
-        <input type="number" id="awInput_amount"> 
+        <input type="number" id="awInput_amount" value="0.00016"> 
       </div>
       <div style="position: relative; float: left">
         <label for="awInput_address"> to Uid </label>

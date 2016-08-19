@@ -60,7 +60,7 @@
 
 /* end .slideTwo */
 
-body section {
+section {
   width: 100px;
   height: 100px;
   background: #555;
@@ -72,7 +72,7 @@ body section {
   border-radius: 5px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
 }
-body section:after {
+section:after {
   /*         visibility: hidden; */
   content: attr(title);
   position: absolute;
